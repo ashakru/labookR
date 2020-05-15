@@ -1,0 +1,39 @@
+---
+title: "LabookR entry"
+author: "ResearcheR"
+date: "May 6, 2020"
+output: 
+  html_document:
+    theme: cosmo
+    code_folding: hide
+---
+
+### Introduction  
+
+Aim of the experiment/analysis, brief background  
+
+#### Objectives  
+
+1. Objective 1  
+2. Objective 2  
+3. Objective 3  
+
+### Materials and methods  
+
+Brief description of the workflow, load all packages and functions  
+
+```{r eval = T, echo = T, message = F, warning = F, error = F}
+library(tidyverse)
+library(knitr)
+```
+
+### Analysis  
+
+Here is my awesome analysis.  
+
+### Conclusions  
+
+1. Conclusion 1  
+2. Conclusion 2  
+3. Conclusion 3  
+
