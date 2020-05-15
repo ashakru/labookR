@@ -1,4 +1,4 @@
-# labookR
+# laBookR
 Open science project to create unified Electronic Lab Notebook (ELN) framework using R syntax in order to support research data reproducibility, facilitate data analysis and projects management.  
 
 ## Background   
